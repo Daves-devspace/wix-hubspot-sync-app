@@ -1,0 +1,14 @@
+{
+  "name": "wix-hubspot-sync-app",
+  "version": "1.0.0",
+  "description": "Bi-directional contact sync between Wix and HubSpot",
+  "main": "src/backend/events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Mwangi Maina",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
